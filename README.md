@@ -1,2 +1,2 @@
 # robo3t
-Docker container with robo3t
+Docker container to run Robo3t https://robomongo.org/ from a docker container
